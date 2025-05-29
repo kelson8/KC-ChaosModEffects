@@ -13,7 +13,6 @@ Break vehicle glass
 
 Change license plates
 * This will eventually change all vehicle license plate texts in the area to a random text.
-
 For now, it just changes it to a set text
 
 Chaos Test
